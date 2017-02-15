@@ -7,7 +7,7 @@ package demo.testbuild;
 public class Pojo1 implements java.io.Serializable {
 
 	static final long serialVersionUID = 1L;
-
+error
 	private java.lang.String field1;
 
 	public Pojo1() {
