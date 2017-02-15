@@ -9,7 +9,7 @@ public class Pojo2 implements java.io.Serializable {
 	static final long serialVersionUID = 1L;
 
 	private java.lang.String field2;
-dd
+
 	public Pojo2() {
 	}
 
